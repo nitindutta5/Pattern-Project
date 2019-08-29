@@ -1,0 +1,17 @@
+.jumbotron{
+    background-image: url('https://www.stitchdesignco.com/content/uploads/2011/11/Pattern3.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+h4{
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+
+h1{
+    font-family: 'Roboto Condensed', sans-serif; 
+}
+.far-fa-heart{
+    color: darkred;
+}
